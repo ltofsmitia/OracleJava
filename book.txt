@@ -1,3 +1,9 @@
 Every word he said only caught me more off guard.
 I had expected he wanted to stop us, but he almost seemed to be encouraging us. 
 His dazzling smile was unreadable.
+
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
