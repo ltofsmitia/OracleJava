@@ -1,0 +1,6 @@
+(a) 5
+(b) 2/24/2016 4:09 PM
+(c) none
+(d) once
+(e) git status just just returns the status of the branch and files
+    git log returns the log of commits
